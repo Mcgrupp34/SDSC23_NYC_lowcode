@@ -10,3 +10,6 @@ Some things you need to know:
 ## The slides
 
 ## The worksheet
+
+## Tips & Tricks
+https://docs.google.com/document/d/1x-ZF_xVNRd7d3CO3owNponIlUd-zXdsCr91NnYXKGI0/edit?usp=sharing
